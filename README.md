@@ -17,6 +17,10 @@ And then print out a PDF of a color by number grid. Like this:
 
 ![landscape pixel grid](pixel_art/landscape_grid.png)
 
+___
+
 It's not perfect.
 
 Yet.
+
+But it's a real fun start!
